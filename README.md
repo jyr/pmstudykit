@@ -1,85 +1,81 @@
-# pmstudykit
-Proyecto para resumir la información para la certificación de PMI
+<p># pmstudykit<br />
+Proyecto para resumir la informaci&oacute;n para la certificaci&oacute;n de PMI</p>
 
-iINICIO
-1.- Acta de Constitución del Proyecto. 
-2.- Registro de Interesados. (updates)
+<p><strong>Inicio</strong><br />
+1.- Acta de Constituci&oacute;n del Proyecto.<br />
+2.- Registro de Interesados. (updates)&nbsp;</p>
 
-PLANEACIÓN
-3.- Plan para la Dirección del Proyecto. 
-     4- Plan de Gestión de los Interesados. 
-     5.- Plan de Gestión del Alcance. 
-           6.-Plan de Gestión de los Requisitos. 
-           7.-  Documentación de Requisitos.
-           8.-  Matriz de Trazabilidad.
-           9.-  Enunciado del Alcance. (updates)
-          10.- Linea Base del alcance. (updates)
-     11.- Plan de Gestión del cronograma.
-           12.- Lista de Actividades
-           13.- Atributos de las Actividades
-           14.- Lista de Hitos. 
-           15.- Diagramas de red del cronograma. (updates)
+<p><strong>Planeaci&oacute;n</strong><br />
+3.- Plan para la Direcci&oacute;n del Proyecto.&nbsp;<br />
+&nbsp; &nbsp; &nbsp;4.-&nbsp;Plan de Gesti&oacute;n de los Interesados.&nbsp;<br />
+&nbsp; &nbsp; &nbsp;5.- Plan de Gesti&oacute;n del Alcance.&nbsp;<br />
+&nbsp; &nbsp; &nbsp;6.- Plan de Gesti&oacute;n de los Requisitos.&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;7.-&nbsp;Documentaci&oacute;n de Requisitos.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;8.-&nbsp;Matriz de Trazabilidad.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;9.- Enunciado del Alcance. (updates)<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;10.-&nbsp;Linea Base del alcance. (updates) <strong>EDT/WBS</strong><br />
+&nbsp; &nbsp;11.-&nbsp;Plan de Gesti&oacute;n del cronograma.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;12.- Lista de Actividades<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;13.- Atributos de las Actividades<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;14.- Lista de Hitos.&nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;15.- Diagramas de red del cronograma. (updates)</p>
 
-  --> 34.-Plan de Gestión de los riesgos.
-          35.- Registro de riesgos(updates)
- --> 32.-.-Plan de Gestión de los RH
-       -->24.- Estimación de costos de las actividades.
-     
-          *16.- Recursos Requeridos para las actividades.
-          *17.- Estructura de desglose de recursos. (updates)
-          *18.- Estimación de la duración de las actividades. (updates)
-          19*@.- Linea base del cronograma.
-          20*@.- Cronograma del proyecto.
-          21*@.- Datos del cronograma.
-          22*@.- Calendarios del proyecto. (updates)
-     23.- Plan de Gestión de los costos.
-            24*.-  -->
-            25*.- Base de las estimaciones. (updates)
-            26*.- Linea base de los costos.
-           27*&.- Requisitos de financiamiento del proyecto. (updates)
-      28.- Plan de Gestión de la calidad.
-             29.- Plan de mejoras del proceso.
-             30.- Métricas de calidad.
-             31.- Listas de verificación de calidad. (updates)
-             32.- -->
-       33.- Plan de Gestión de las Comunicaciones. (updates)
-             34.- -->
-             
-     36.-Plan de Gestión de las Adquisiciones.
-              37.- Enunciado del Trabajo relativo a adquisiciones.
-              38.- Documentos de las adquisiciones.
-              39.- Criterios de selección de proveedores.
-              40.- Decisiones de hacer o comprar.
-              41.- Solicitudes de cambio. (updates) 
+<p>-&gt;34.- Plan de Gesti&oacute;n de los riesgos.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;35.-&nbsp;Registro de riesgos(updates)<br />
+-&gt;32.-&nbsp;Plan de Gesti&oacute;n de los RH<br />
+&nbsp; &nbsp;23.- Plan de Gesti&oacute;n de los costos.<br />
+&nbsp; &nbsp; &nbsp; -&gt;24.- Estimaci&oacute;n de costos de las actividades.<br />
+&nbsp; &nbsp; &nbsp;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; *16.- Recursos Requeridos para las actividades.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; *17.- Estructura de desglose de recursos. (updates)<br />
+&nbsp; &nbsp; &nbsp; &nbsp; *18.- Estimaci&oacute;n de la duraci&oacute;n de las actividades. (updates)<br />
+&nbsp; &nbsp; &nbsp; &nbsp; 19*@.- Linea base del cronograma.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; 20*@.- Cronograma del proyecto.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; 21*@.- Datos del cronograma.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; 22*@.- Calendarios del proyecto. (updates)<br />
+&nbsp; &nbsp; &nbsp; &nbsp; 25*.- Base de las estimaciones. (updates)<br />
+&nbsp; &nbsp; &nbsp; &nbsp; 26*.- Linea base de los costos.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; 27*&amp;.- Requisitos de financiamiento del proyecto. (updates)<br />
+&nbsp; &nbsp;28.- Plan de Gesti&oacute;n de la calidad.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;29.- Plan de mejoras del proceso.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;30.- M&eacute;tricas de calidad.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;31.- Listas de verificaci&oacute;n de calidad. (updates)<br />
+&nbsp; &nbsp;33.- Plan de Gesti&oacute;n de las Comunicaciones. (updates)<br />
+&nbsp; &nbsp;36.- Plan de Gesti&oacute;n de las Adquisiciones.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;37.- Enunciado del Trabajo relativo a adquisiciones.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;38.- Documentos de las adquisiciones.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;39.- Criterios de selecci&oacute;n de proveedores.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;40.- Decisiones de hacer o comprar.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;41.- Solicitudes de cambio. (updates)&nbsp;</p>
 
-EJECUCIÓN
-42.-Registro de incidentes
-@43.- Asignaciones de personal al proyecto.
-*44.- Calendario de recursos. (updates)
-45.- Evaluaciones del desempeño del equipo.
-46.- Entregables.
-47.- Datos de desempeño del trabajo.
-48.- *Comunicaciones del proyecto.
-49.- *Vendedores seleccionados.
-&50.- Acuerdos
-51.- Registro de incidentes
- (updates)(solicitudes de cambio) 
+<p><strong>Ejecuci&oacute;n</strong><br />
+&nbsp; &nbsp; 42.- Registro de incidentes<br />
+@43.- Asignaciones de personal al proyecto.<br />
+&nbsp; *44.- Calendario de recursos. (updates)<br />
+&nbsp; &nbsp;45.- Evaluaciones del desempe&ntilde;o del equipo.<br />
+&nbsp; &nbsp;46.- Entregables.<br />
+&nbsp; &nbsp;47.- Datos de desempe&ntilde;o del trabajo.<br />
+&nbsp; &nbsp;48.- *Comunicaciones del proyecto.<br />
+&nbsp; &nbsp;49.- *Vendedores seleccionados.<br />
+&nbsp; &amp;50.- Acuerdos<br />
+&nbsp;(updates)(solicitudes de cambio)&nbsp;</p>
 
+<p><br />
+<strong>Monitoreo y Control</strong><br />
+51.- Informaci&oacute;n de Desempe&ntilde;o del Trabajo.<br />
+52.- Pronostico del Cronograma.<br />
+53.- Pronostico de Costos.<br />
+54.- Medidas de Control de Calidad<br />
+55.- Cambios Validados.<br />
+56.- Entregables Verificados.<br />
+57.- Entregables Aceptados.<br />
+58.- Informes de Desempe&ntilde;o del Trabajo.<br />
+59.- Solicitudes de cambio aprobadas<br />
+60.- Registro de cambios<br />
+(updates)(solicitudes de cambio)&nbsp;</p>
 
-Monitoreo y Control
-Tiempo
-52.- Información de Desempeño del Trabajo.
-53.- Pronostico del Cronograma.
-54.- Pronostico de Costos.
-55.- Medidas de Control de Calidad
-56.- Cambios Validados.
-57.- Entregables Verificados.
-58.- Entregables Aceptados.
-59.- Informes de Desempeño del Trabajo.
-60.- Solicitudes de cambio aprobadas
-61.- Registro de cambios
-(updates)(solicitudes de cambio) 
+<p><strong>Cierre</strong><br />
+61.- Adquisiciones cerradas(updates)<br />
+62.- Transferencia del producto, servicio o resultado Final. (updates)</p>
 
-CIERRE
-62.- Adquisiciones cerradas(updates)
-63.- Transferencia del producto, servicio o resultado Final. (updates)
+<h1>&nbsp;</h1>
