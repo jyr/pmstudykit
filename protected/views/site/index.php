@@ -71,6 +71,37 @@
               </div>
               </a><!-- /.info-box -->
             </div><!-- /.col -->
+            
+            <div class="col-md-3 col-sm-6 col-xs-12">
+              <a href="http://managementhelp.org/projectmanagement/" target="_blank">
+                <div class="info-box bg-blue-active">
+                <span class="info-box-icon"><i class="fa fa-file-text-o"></i></span>
+                <div class="info-box-content">
+                  <span class="info-box-text">Artículos</span>
+                  <span class="info-box-number">Project management </span>
+                  <span class="progress-description">
+                     All About Project Management
+                  </span>
+                </div><!-- /.info-box-content -->
+              </div>
+              </a><!-- /.info-box -->
+            </div><!-- /.col -->
+            
+            <div class="col-md-3 col-sm-6 col-xs-12">
+              <a href="http://blog.practicingitpm.com/" target="_blank">
+                <div class="info-box bg-blue-active">
+                <span class="info-box-icon"><i class="fa fa-file-text-o"></i></span>
+                <div class="info-box-content">
+                  <span class="info-box-text">Artículos</span>
+                  <span class="info-box-number">News, Articles, The Weekly</span>
+                  <span class="progress-description">
+                     The Practicing IT Project Manager
+                  </span>
+                </div><!-- /.info-box-content -->
+              </div>
+              </a><!-- /.info-box -->
+            </div><!-- /.col -->
+            
           </div>
           
           <div class="row">
