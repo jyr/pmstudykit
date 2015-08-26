@@ -1,5 +1,9 @@
 <p># pmstudykit<br />
 Proyecto para resumir la informaci&oacute;n para la certificaci&oacute;n de PMI</p>
+<p><b>Importante:</b>
+Cuando se ponga en producción deben copiarse los archivos de dev_home a la carpeta home y debe cambiarse el archivo: main.php en $DEV_MODE a false.</br>
+Ademas debe migrarse la base de desarollo a la de producción.
+</p>
 
 <p><strong>Inicio</strong><br />
 1.- Acta de Constituci&oacute;n del Proyecto.<br />
