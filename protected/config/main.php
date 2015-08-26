@@ -2,7 +2,7 @@
 
 // uncomment the following to define a path alias
 // Yii::setPathOfAlias('local','path/to/local-folder');
-$DEV_MODE = false;
+$DEV_MODE = true;
 
 // This is the main Web application configuration. Any writable
 // CWebApplication properties can be configured here.
@@ -51,11 +51,11 @@ return array(
 		),
 		*/
 		'db'=>array(
-			'connectionString' => ($DEV_MODE) ? 'mysql:host=localhost; dbname=pmstu282_pmstudykit' : 'mysql:host=localhost; dbname=pmstu282_pmtool',
+			'connectionString' => ($DEV_MODE) ? 'mysql:host=localhost; dbname=pmstu282_dev_pmtool' : 'mysql:host=localhost; dbname=pmstu282_pmtool',
 
                     'emulatePrepare' => true,
 
-                    'username' => ($DEV_MODE) ? 'pmstu282_pmtool' : 'pmstu282_pmtool',
+                    'username' => ($DEV_MODE) ? 'pmstu282_devPM' : 'pmstu282_pmtool',
 
                     'password' => ($DEV_MODE) ? '$pmt00l2015' : '$pmt00l2015',
 
